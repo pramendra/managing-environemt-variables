@@ -26,3 +26,18 @@ Create files inside env/{environment}.js based on the environment of your choice
 env/*
 !env/index.js
 ```
+
+## How to test
+
+### run `yarn` to install package
+
+### test
+#### development
+```
+yarn dev
+
+```
+#### production
+```
+yarn start
+```
